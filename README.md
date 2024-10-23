@@ -1,2 +1,2 @@
-# Cypress-with-Javascript
-Cypress automation work examples
+# Selenium-with-C#
+Selenium automation work examples
