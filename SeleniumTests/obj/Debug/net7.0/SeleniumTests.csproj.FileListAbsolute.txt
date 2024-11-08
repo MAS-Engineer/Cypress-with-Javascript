@@ -1,0 +1,5 @@
+C:\Users\riap8\OneDrive\Desktop\Engineer Portfolio\Selenium-Csharp\SeleniumTests\obj\Debug\net7.0\SeleniumTests.csproj.AssemblyReference.cache
+C:\Users\riap8\OneDrive\Desktop\Engineer Portfolio\Selenium-Csharp\SeleniumTests\obj\Debug\net7.0\SeleniumTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riap8\OneDrive\Desktop\Engineer Portfolio\Selenium-Csharp\SeleniumTests\obj\Debug\net7.0\SeleniumTests.AssemblyInfoInputs.cache
+C:\Users\riap8\OneDrive\Desktop\Engineer Portfolio\Selenium-Csharp\SeleniumTests\obj\Debug\net7.0\SeleniumTests.AssemblyInfo.cs
+C:\Users\riap8\OneDrive\Desktop\Engineer Portfolio\Selenium-Csharp\SeleniumTests\obj\Debug\net7.0\SeleniumTests.csproj.CoreCompileInputs.cache
